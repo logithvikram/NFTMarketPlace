@@ -62,9 +62,7 @@ Various functions are available to fetch NFT data:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Disclaimer
 
-This smart contract is provided as-is with no warranty or guarantees. Use it at your own risk.
 
 
 
